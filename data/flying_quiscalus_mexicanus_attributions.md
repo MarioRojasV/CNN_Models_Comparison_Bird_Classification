@@ -12,7 +12,7 @@ This document logs the legal metadata and open-access compliance records for the
 | 4.png | iNaturalist | [moodejo] | [View Record](https://www.inaturalist.org/observations/270202361) | CC BY-NC 4.0 |
 | 5.png | iNaturalist | [jmkent] | [View Record](https://www.inaturalist.org/observations/246239915) | CC BY-NC 4.0 |
 | 6.png | iNaturalist | [Adam Jackson] | [View Record](https://www.inaturalist.org/observations/238159245) | CC0 1.0 |
-| 7.png | iNaturalist | [floris_heemskerk] | [View Record](https://www.inaturalist.org/observations/221191223) | CC-BY-NC 4.0 |
+| 7.png | iNaturalist | [floris_heemskerk] | [View Record](https://www.inaturalist.org/observations/221191223) | CC BY-NC 4.0 |
 | 8.png | iNaturalist | [floris_heemskerk] | [View Record](https://www.inaturalist.org/observations/221191223) | CC BY-NC 4.0 |
 | 9.png | iNaturalist | [George] | [View Record](https://www.inaturalist.org/observations/190114070) | CC BY-NC 4.0 |
 | 10.png | iNaturalist | [Simon Kiacz] | [View Record](https://www.inaturalist.org/observations/170513527) | CC BY-NC 4.0 |
