@@ -256,3 +256,8 @@ This document logs the legal metadata and open-access compliance records for the
 | 248.png | iNaturalist | erjo | erjo | [View Record](https://www.inaturalist.org/observations/283569047) | CC BY-NC 4.0 |
 | 249.png | iNaturalist | pilgrim123 | pilgrim123 | [View Record](https://www.inaturalist.org/observations/331859028) | CC BY-NC 4.0 |
 | 250.png | iNaturalist | Michael Phillips | cw4phillips | [View Record](https://www.inaturalist.org/observations/330641853) | CC BY-NC 4.0 |
+
+---
+
+## Usage Rights Reminder
+These assets are strictly limited to non-commercial scientific evaluation and academic peer-review reproduction purposes. They remain governed exclusively by the individual copyrights mapped in the compliance log above.
