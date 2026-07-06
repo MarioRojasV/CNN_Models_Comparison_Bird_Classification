@@ -6,41 +6,41 @@ This document logs the legal metadata and open-access compliance records for the
 
 | File ID | Platform | Author / Photographer | Username / Handle | Source URL | CC License |
 | :---: | :---: | :--- | :--- | :---: | :---: |
-| 1.png | Flickr | Andrey | 196528098@N05 | [View Photo](https://www.flickr.com/photos/196528098@N05/52862761506/in/album-72177720307508037/) | CC BY-NC-SA 2.0 |
+| 1.png | Flickr | Andrey | shutr_abuse | [View Photo](https://www.flickr.com/photos/196528098@N05/52862761506/in/album-72177720307508037/) | CC BY-NC-SA 2.0 |
 | 2.png | Wikimedia | Hobbyfotowiki | Hobbyfotowiki | [View Media](https://commons.wikimedia.org/wiki/File:Great-tailed_grackle,_(Quiscalus_mexicanus),_female.jpg) | CC0 1.0 |
 | 3.png | Own word | Mario Andrés Rojas Varela | – | – | CC BY 4.0 |
-| 4.png | Flickr | Arthur Chapman | arthur_chapman | [View Photo](https://www.flickr.com/photos/arthur_chapman/3021724078/in/album-72157625349425083) | CC BY-NC 2.0 |
-| 5.png | Flickr | Laura Wolf | laurawolfartist | [View Photo](https://www.flickr.com/photos/151817352@N04/54522324628/) | CC BY 2.0 |
+| 4.png | Flickr | Arthur Chapman | Arthur Chapman | [View Photo](https://www.flickr.com/photos/arthur_chapman/3021724078/in/album-72157625349425083) | CC BY-NC 2.0 |
+| 5.png | Flickr | Laura Wolf | lwolfartist | [View Photo](https://www.flickr.com/photos/151817352@N04/54522324628/) | CC BY 2.0 |
 | 6.png | Wikimedia | ImagePerson | ImagePerson | [View Media](https://commons.wikimedia.org/wiki/File:Great-tailed_or_Mexican_grackle_Quiscalus_mexicanus_female_Costa_Rica_0386.jpg) | CC BY 4.0 |
-| 7.png | Flickr | Laura Wolf | laurawolfartist | [View Photo](https://www.flickr.com/photos/151817352@N04/54523036631/) | CC BY 2.0 |
-| 8.png | Flickr | Laura Wolf | laurawolfartist | [View Photo](https://www.flickr.com/photos/151817352@N04/54521272887/) | CC BY 2.0 |
-| 9.png | Flickr | Jean Ogden Just Chaos Photography | 7326810@N08 | [View Photo](https://www.flickr.com/photos/7326810@N08/53560130491/) | CC BY 2.0 |
-| 10.png | Flickr | Charlie Jackson | chaz_pics | [View Photo](https://www.flickr.com/photos/chaz_pics/49558485456/) | CC BY 2.0 |
-| 11.png | Flickr | Charlie Jackson | chaz_pics | [View Photo](https://www.flickr.com/photos/chaz_pics/49547936128/) | CC BY 2.0 |
+| 7.png | Flickr | Laura Wolf | lwolfartist | [View Photo](https://www.flickr.com/photos/151817352@N04/54523036631/) | CC BY 2.0 |
+| 8.png | Flickr | Laura Wolf | lwolfartist | [View Photo](https://www.flickr.com/photos/151817352@N04/54521272887/) | CC BY 2.0 |
+| 9.png | Flickr | Jean Ogden Just Chaos Photography | Just chaos | [View Photo](https://www.flickr.com/photos/7326810@N08/53560130491/) | CC BY 2.0 |
+| 10.png | Flickr | Charlie Jackson | chaz jackson | [View Photo](https://www.flickr.com/photos/chaz_pics/49558485456/) | CC BY 2.0 |
+| 11.png | Flickr | Charlie Jackson | chaz jackson | [View Photo](https://www.flickr.com/photos/chaz_pics/49547936128/) | CC BY 2.0 |
 | 12.png | Wikimedia | Charles J. Sharp | Charles J. Sharp | [View Media](https://commons.wikimedia.org/wiki/File:Female_great-tailed_grackle.JPG) | CC BY-SA 3.0 |
-| 13.png | Flickr | Charlie Jackson | chaz_pics | [View Photo](https://www.flickr.com/photos/chaz_pics/49548647002/in/album-72157713148644143) | CC BY 2.0 |
-| 14.png | Flickr | Åsa Berndtsson | 93892629@N07 | [View Photo](https://www.flickr.com/photos/93892629@N07/31093199516/) | CC BY 2.0 |
-| 15.png | Flickr | Åsa Berndtsson | 93892629@N07 | [View Photo](https://www.flickr.com/photos/93892629@N07/30761832370/) | CC BY 2.0 |
-| 16.png | Flickr | Åsa Berndtsson | 93892629@N07 | [View Photo](https://www.flickr.com/photos/93892629@N07/30308638524/) | CC BY 2.0 |
-| 17.png | Flickr | Åsa Berndtsson | 93892629@N07 | [View Photo](https://www.flickr.com/photos/93892629@N07/31093323706/) | CC BY 2.0 |
-| 18.png | Flickr | rob Stoeltje | 46198971@N06 | [View Photo](https://www.flickr.com/photos/46198971@N06/8438984797/) | CC BY 2.0 |
-| 19.png | Flickr | Andrey | 196528098@N05 | [View Photo](https://www.flickr.com/photos/196528098@N05/52863197468/in/album-72177720307508037) | CC BY-NC-SA 2.0 |
-| 20.png | Flickr | Andrey | 196528098@N05 | [View Photo](https://www.flickr.com/photos/196528098@N05/52863196948/) | CC BY-NC-SA 2.0 |
-| 21.png | Flickr | D Gordon E  Robertson | 30734357@N08 | [View Photo](https://www.flickr.com/photos/30734357@N08/5129567022/in/album-72157625149722653) | CC BY-NC-SA 2.0 |
+| 13.png | Flickr | Charlie Jackson | chaz jackson | [View Photo](https://www.flickr.com/photos/chaz_pics/49548647002/in/album-72157713148644143) | CC BY 2.0 |
+| 14.png | Flickr | Åsa Berndtsson | Åsa Berndtsson | [View Photo](https://www.flickr.com/photos/93892629@N07/31093199516/) | CC BY 2.0 |
+| 15.png | Flickr | Åsa Berndtsson | Åsa Berndtsson | [View Photo](https://www.flickr.com/photos/93892629@N07/30761832370/) | CC BY 2.0 |
+| 16.png | Flickr | Åsa Berndtsson | Åsa Berndtsson | [View Photo](https://www.flickr.com/photos/93892629@N07/30308638524/) | CC BY 2.0 |
+| 17.png | Flickr | Åsa Berndtsson | Åsa Berndtsson | [View Photo](https://www.flickr.com/photos/93892629@N07/31093323706/) | CC BY 2.0 |
+| 18.png | Flickr | rob Stoeltje | rob stoeltje | [View Photo](https://www.flickr.com/photos/46198971@N06/8438984797/) | CC BY 2.0 |
+| 19.png | Flickr | Andrey | shutr_abuse | [View Photo](https://www.flickr.com/photos/196528098@N05/52863197468/in/album-72177720307508037) | CC BY-NC-SA 2.0 |
+| 20.png | Flickr | Andrey | shutr_abuse | [View Photo](https://www.flickr.com/photos/196528098@N05/52863196948/) | CC BY-NC-SA 2.0 |
+| 21.png | Flickr | D Gordon E  Robertson | DGERobertson | [View Photo](https://www.flickr.com/photos/30734357@N08/5129567022/in/album-72157625149722653) | CC BY-NC-SA 2.0 |
 | 22.png | Flickr | Steve Knight | kitmasterbloke | [View Photo](https://www.flickr.com/photos/kitmasterbloke/55063166460/in/album-72177720324112136) | CC BY 4.0 |
-| 23.png | Flickr | Nick Athanas | antpitta | [View Photo](https://www.flickr.com/photos/antpitta/23467678218/in/album-72157686323423051/) | CC BY-NC-SA 2.0 |
-| 24.png | Flickr | Viv Lynch | eskimo_jo | [View Photo](https://www.flickr.com/photos/eskimo_jo/30777986430/in/album-72157676652022746) | CC BY-NC-ND 2.0 |
-| 25.png | Flickr | Becky Matsubara | beckymatsubara | [View Photo](https://www.flickr.com/photos/beckymatsubara/49756488398/in/album-72157677365245667) | CC BY 4.0 |
-| 26.png | Flickr | Viv Lynch | eskimo_jo | [View Photo](https://www.flickr.com/photos/eskimo_jo/31131109906/in/album-72157676652022746) | CC BY-NC-ND 2.0 |
-| 27.png | Flickr | Ralph Kränzlein | rakra42 | [View Photo](https://www.flickr.com/photos/rakra42/51970646632/in/album-72177720297686120) | CC BY-NC-ND 4.0 |
+| 23.png | Flickr | Nick Athanas | nickathanas | [View Photo](https://www.flickr.com/photos/antpitta/23467678218/in/album-72157686323423051/) | CC BY-NC-SA 2.0 |
+| 24.png | Flickr | Viv Lynch | Viv Lynch | [View Photo](https://www.flickr.com/photos/eskimo_jo/30777986430/in/album-72157676652022746) | CC BY-NC-ND 2.0 |
+| 25.png | Flickr | Becky Matsubara | Becky Matsubara | [View Photo](https://www.flickr.com/photos/beckymatsubara/49756488398/in/album-72157677365245667) | CC BY 4.0 |
+| 26.png | Flickr | Viv Lynch | Viv Lynch | [View Photo](https://www.flickr.com/photos/eskimo_jo/31131109906/in/album-72157676652022746) | CC BY-NC-ND 2.0 |
+| 27.png | Flickr | Ralph Kränzlein | RaKra42 | [View Photo](https://www.flickr.com/photos/rakra42/51970646632/in/album-72177720297686120) | CC BY-NC-ND 4.0 |
 | 28.png | Flickr | Erik Dunham | sofafort | [View Photo](https://www.flickr.com/photos/sofafort/16236336713/in/album-72157651434097695) | CC BY-NC-SA 2.0 |
 | 29.png | Wikimedia | Cephas | Cephas | [View Media](https://commons.wikimedia.org/wiki/File:Quiscalus_mexicanu_3_CR.JPG) | CC BY-SA 4.0 |
-| 30.png | Flickr | Dr.Jose R. Castello | 36314595@N04 | [View Photo](https://www.flickr.com/photos/36314595@N04/26839474784/) | CC BY-NC-SA 2.0 |
-| 31.png | Flickr | Marc | progressionuk | [View Photo](https://www.flickr.com/photos/progressionuk/8654300805/) | CC BY-NC-ND 2.0 |
-| 32.png | Flickr | Jonas Juodišius | jonas_j | [View Photo](https://www.flickr.com/photos/jonas_j/49243746513/) | CC BY-NC-SA 2.0 |
+| 30.png | Flickr | Dr.Jose R. Castello | Dr.Jose R. Castello | [View Photo](https://www.flickr.com/photos/36314595@N04/26839474784/) | CC BY-NC-SA 2.0 |
+| 31.png | Flickr | Marc | MarcProudfoot | [View Photo](https://www.flickr.com/photos/progressionuk/8654300805/) | CC BY-NC-ND 2.0 |
+| 32.png | Flickr | Jonas Juodišius | Jonas Juodišius | [View Photo](https://www.flickr.com/photos/jonas_j/49243746513/) | CC BY-NC-SA 2.0 |
 | 33.png | Wikimedia | Cephas | Cephas | [View Media](https://commons.wikimedia.org/wiki/File:Quiscalus_mexicanu_4_CR.JPG) | CC BY-SA 4.0 |
-| 34.png | Flickr | Jonas Juodišius | jonas_j | [View Photo](https://www.flickr.com/photos/jonas_j/49244211766/) | CC BY-NC-SA 2.0 |
-| 35.png | Flickr | Charlie Jackson | chaz_pics | [View Photo](https://www.flickr.com/photos/chaz_pics/49702868253/) | CC BY 2.0 |
+| 34.png | Flickr | Jonas Juodišius | Jonas Juodišius | [View Photo](https://www.flickr.com/photos/jonas_j/49244211766/) | CC BY-NC-SA 2.0 |
+| 35.png | Flickr | Charlie Jackson | chaz jackson | [View Photo](https://www.flickr.com/photos/chaz_pics/49702868253/) | CC BY 2.0 |
 | 36.png | iNaturalist | gosner | gosner | [View Record](https://www.inaturalist.org/observations/364697982) | CC BY-NC 4.0 |
 | 37.png | iNaturalist | yotakahron | yotakahron | [View Record](https://www.inaturalist.org/observations/363754695) | CC BY-NC 4.0 |
 | 38.png | iNaturalist | Meena Chepenik | meena76609 | [View Record](https://www.inaturalist.org/observations/363685146) | CC BY-NC 4.0 |
