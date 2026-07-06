@@ -6,40 +6,40 @@ This document logs the legal metadata and open-access compliance records for the
 
 | File ID | Platform | Author / Photographer | Username / Handle | Source URL | CC License |
 | :---: | :---: | :--- | :--- | :---: | :---: |
-| 1.png | Flickr | Jean Ogden Just Chaos Photography | 7326810@N08 | [View Photo](https://www.flickr.com/photos/7326810@N08/54621227716) | CC BY 4.0 |
-| 2.png | Flickr | Doug Greenberg | dagberg | [View Photo](https://www.flickr.com/photos/dagberg/38683053782/) | CC BY-NC 2.0 |
-| 3.png | Flickr | Mick Thompson | mickthompson | [View Photo](https://www.flickr.com/photos/mickthompson/26812446347/) | CC BY-NC 2.0 |
-| 4.png | Flickr | Steve Knight | kitmasterbloke | [View Photo](https://www.flickr.com/photos/kitmasterbloke/54336801418/) | CC BY 2.0 |
-| 5.png | Flickr | Dave Wendelken | wendeldh | [View Photo](https://www.flickr.com/photos/wendeldh/54432716176/) | CC BY-NC 2.0 |
-| 6.png | Flickr | Charlie Jackson | chaz_pics | [View Photo](https://www.flickr.com/photos/chaz_pics/49548631951/in/album-72157713148644143) | CC BY 2.0 |
-| 7.png | Flickr | Charlie Jackson | chaz_pics | [View Photo](https://www.flickr.com/photos/chaz_pics/49553968393/in/album-72157713148644143/) | CC BY 2.0 |
-| 8.png | Flickr | Charlie Jackson | chaz_pics | [View Photo](https://www.flickr.com/photos/chaz_pics/49554704067/in/album-72157713148644143/) | CC BY 2.0 |
-| 9.png | Flickr | Marco V. Muñoz | munoz_marco | [View Photo](https://www.flickr.com/photos/munoz_marco/25689878770/in/album-72157659995968323) | CC BY-NC-SA 2.0 |
-| 10.png | Flickr | Becky Matsubara | beckymatsubara | [View Photo](https://www.flickr.com/photos/beckymatsubara/45696357214/) | CC BY 4.0 |
-| 11.png | Flickr | Tom Murray | tmurray74 | [View Photo](https://www.flickr.com/photos/tmurray74/47112656451/) | CC BY-NC 2.0 |
-| 12.png | Flickr | Kristi | kristi_decourcy | [View Photo](https://www.flickr.com/photos/kristi_decourcy/53416988120/) | CC BY-NC-SA 2.0 |
-| 13.png | Flickr | Bernard DUPONT | berniedup | [View Photo](https://www.flickr.com/photos/berniedup/52391065740/) | CC BY-SA 2.0 |
-| 14.png | Flickr | Hennie Cuper | hj_cuper | [View Photo](https://www.flickr.com/photos/hj_cuper/32858835457/) | CC BY-NC 2.0 |
-| 15.png | Flickr | Jean Ogden Just Chaos Photography | 7326810@N08 | [View Photo](https://www.flickr.com/photos/7326810@N08/52955865282/) | CC BY 2.0 |
-| 16.png | Flickr | Greg Gilbert | 8063840@N02 | [View Photo](https://www.flickr.com/photos/8063840@N02/2383546967/) | CC BY 2.0 |
+| 1.png | Flickr | Jean Ogden Just Chaos Photography | Just Chaos | [View Record](https://www.flickr.com/photos/7326810@N08/54621227716) | CC BY 4.0 |
+| 2.png | Flickr | Doug Greenberg | Doug Greenberg | [View Record](https://www.flickr.com/photos/dagberg/38683053782/) | CC BY-NC 2.0 |
+| 3.png | Flickr | Mick Thompson | Mick Thompson1 | [View Record](https://www.flickr.com/photos/mickthompson/26812446347/) | CC BY-NC 2.0 |
+| 4.png | Flickr | Steve Knight | kitmasterbloke | [View Record](https://www.flickr.com/photos/kitmasterbloke/54336801418/) | CC BY 2.0 |
+| 5.png | Flickr | Dave Wendelken | Dave W. | [View Record](https://www.flickr.com/photos/wendeldh/54432716176/) | CC BY-NC 2.0 |
+| 6.png | Flickr | Charlie Jackson | chaz jackson | [View Record](https://www.flickr.com/photos/chaz_pics/49548631951/in/album-72157713148644143) | CC BY 2.0 |
+| 7.png | Flickr | Charlie Jackson | chaz jackson | [View Record](https://www.flickr.com/photos/chaz_pics/49553968393/in/album-72157713148644143/) | CC BY 2.0 |
+| 8.png | Flickr | Charlie Jackson | chaz jackson | [View Record](https://www.flickr.com/photos/chaz_pics/49554704067/in/album-72157713148644143/) | CC BY 2.0 |
+| 9.png | Flickr | Marco V. Muñoz | Marco V. Muñoz | [View Record](https://www.flickr.com/photos/munoz_marco/25689878770/in/album-72157659995968323) | CC BY-NC-SA 2.0 |
+| 10.png | Flickr | Becky Matsubara | Becky Matsubara | [View Record](https://www.flickr.com/photos/beckymatsubara/45696357214/) | CC BY 4.0 |
+| 11.png | Flickr | Tom Murray | tcmurray74 | [View Record](https://www.flickr.com/photos/tmurray74/47112656451/) | CC BY-NC 2.0 |
+| 12.png | Flickr | Kristi | foxtail_1 | [View Record](https://www.flickr.com/photos/kristi_decourcy/53416988120/) | CC BY-NC-SA 2.0 |
+| 13.png | Flickr | Bernard DUPONT | Bernard DUPONT | [View Record](https://www.flickr.com/photos/berniedup/52391065740/) | CC BY-SA 2.0 |
+| 14.png | Flickr | Hennie Cuper | Hennie Cuper | [View Record](https://www.flickr.com/photos/hj_cuper/32858835457/) | CC BY-NC 2.0 |
+| 15.png | Flickr | Jean Ogden Just Chaos Photography | Just chaos | [View Record](https://www.flickr.com/photos/7326810@N08/52955865282/) | CC BY 2.0 |
+| 16.png | Flickr | Greg Gilbert | GregGilbert1 | [View Record](https://www.flickr.com/photos/8063840@N02/2383546967/) | CC BY 2.0 |
 | 17.png | Wikimedia | Cephas | Cephas | [View Media](https://commons.wikimedia.org/wiki/File:Turdus_grayi_SaGeRi_02.jpg) | CC BY-SA 4.0 |
 | 18.png | Wikimedia | Hobbyfotowiki | Hobbyfotowiki | [View Media](https://commons.wikimedia.org/wiki/File:Clay-colored_thrush_(Turdus_grayi).jpg) | CC0 1.0 |
 | 19.png | Wikimedia | Andrés Berrocal Soto | Andrés Berrocal Soto | [View Media](https://commons.wikimedia.org/wiki/File:Turdus_grayi_..._o_%22Yig%C3%BCirro%22_-_panoramio.jpg) | CC BY-SA 3.0 |
 | 20.png | Wikimedia | Åsa Berndtsson | Åsa Berndtsson | [View Media](https://commons.wikimedia.org/wiki/File:Costa_Rica_DSCN5561-new_(31093167536).jpg) | CC BY 2.0 |
 | 21.png | Wikimedia | Joseph C Boone | Joseph_C_Boone | [View Media](https://commons.wikimedia.org/wiki/File:Clay_colored_Thrush.jpg) | CC BY-SA 3.0 |
-| 22.png | Flickr | Jean Ogden Just Chaos Photography | 7326810@N08 | [View Photo](https://www.flickr.com/photos/7326810@N08/54609097835/) | CC BY 4.0 |
-| 23.png | Flickr | Juan Zamora | juazammo | [View Photo](https://www.flickr.com/photos/juazammo/11806726813/) | CC BY 2.0 |
-| 24.png | Flickr | Wouter Koch | 145905568@N03 | [View Photo](https://www.flickr.com/photos/145905568@N03/31733383956/) | CC BY 2.0 |
-| 25.png | Flickr | Laura Wolf | laurawolfartist | [View Photo](https://www.flickr.com/photos/laurawolfartist/53686850793/) | CC BY 2.0 |
-| 26.png | Flickr | Don Faulkner | faulkners_fowl_shots | [View Photo](https://www.flickr.com/photos/faulkners_fowl_shots/7047602227/) | CC BY-SA 2.0 |
-| 27.png | Flickr | Larry Jordan | soaringfalcon | [View Photo](https://www.flickr.com/photos/soaringfalcon/47812605922/) | CC BY-NC-SA 2.0 |
-| 28.png | Flickr | Andy Reago & Chrissy McClarren | wildreturn | [View Photo](https://www.flickr.com/photos/wildreturn/25115769125/) | CC BY 2.0 |
-| 29.png | Flickr | Robin Gwen Agarwal (ANudibranchMom on iNaturalist) | 30314434@N06 | [View Photo](https://www.flickr.com/photos/30314434@N06/54514860347/) | CC BY-NC 2.0 |
-| 30.png | Flickr | David Rodríguez Arias | 82969027@N04 | [View Photo](https://www.flickr.com/photos/82969027@N04/11856059014/) | CC BY-NC-SA 2.0 |
-| 31.png | Flickr | Charles J Sharp | charlesjsharp | [View Photo](https://www.flickr.com/photos/charlesjsharp/48433892756/) | CC BY-NC-SA 2.0 |
-| 32.png | Flickr | Kristi | kristi_decourcy | [View Photo](https://www.flickr.com/photos/kristi_decourcy/53452276424/) | CC BY-NC-SA 2.0 |
-| 33.png | Flickr | Laura Wolf | laurawolfartist | [View Photo](https://www.flickr.com/photos/laurawolfartist/53685755817/) | CC BY 2.0 |
-| 34.png | Flickr | Laura Wolf | laurawolfartist | [View Photo](https://www.flickr.com/photos/laurawolfartist/53685755877/) | CC BY 2.0 |
+| 22.png | Flickr | Jean Ogden Just Chaos Photography | Just Chaos | [View Record](https://www.flickr.com/photos/7326810@N08/54609097835/) | CC BY 4.0 |
+| 23.png | Flickr | Juan Zamora | Ignacio Zamora | [View Record](https://www.flickr.com/photos/juazammo/11806726813/) | CC BY 2.0 |
+| 24.png | Flickr | Wouter Koch | wouterkoch | [View Record](https://www.flickr.com/photos/145905568@N03/31733383956/) | CC BY 2.0 |
+| 25.png | Flickr | Laura Wolf | lwolfartist | [View Record](https://www.flickr.com/photos/laurawolfartist/53686850793/) | CC BY 2.0 |
+| 26.png | Flickr | Don Faulkner | don r faulkner | [View Record](https://www.flickr.com/photos/faulkners_fowl_shots/7047602227/) | CC BY-SA 2.0 |
+| 27.png | Flickr | Larry Jordan | TheBirdersReport.com | [View Record](https://www.flickr.com/photos/soaringfalcon/47812605922/) | CC BY-NC-SA 2.0 |
+| 28.png | Flickr | Andy Reago & Chrissy McClarren | Wildreturn | [View Record](https://www.flickr.com/photos/wildreturn/25115769125/) | CC BY 2.0 |
+| 29.png | Flickr | Robin Gwen Agarwal (ANudibranchMom on iNaturalist) | Robin Gwen Agarwal | [View Record](https://www.flickr.com/photos/30314434@N06/54514860347/) | CC BY-NC 2.0 |
+| 30.png | Flickr | David Rodríguez Arias | David Rodríguez Arias | [View Record](https://www.flickr.com/photos/82969027@N04/11856059014/) | CC BY-NC-SA 2.0 |
+| 31.png | Flickr | Charles J Sharp | Charlesjsharp | [View Record](https://www.flickr.com/photos/charlesjsharp/48433892756/) | CC BY-NC-SA 2.0 |
+| 32.png | Flickr | Kristi | foxtail_1 | [View Record](https://www.flickr.com/photos/kristi_decourcy/53452276424/) | CC BY-NC-SA 2.0 |
+| 33.png | Flickr | Laura Wolf | lwolfartist | [View Record](https://www.flickr.com/photos/laurawolfartist/53685755817/) | CC BY 2.0 |
+| 34.png | Flickr | Laura Wolf | lwolfartist | [View Record](https://www.flickr.com/photos/laurawolfartist/53685755877/) | CC BY 2.0 |
 | 35.png | Own work | Mario Andrés Rojas Varela | – | – | CC BY 4.0 |
 | 36.png | iNaturalist | Carroll Perkins | carrollperkins | [View Record](https://www.inaturalist.org/observations/367533207) | CC BY-NC 4.0 |
 | 37.png | iNaturalist | John Beer | johnbeer | [View Record](https://www.inaturalist.org/observations/331674453) | CC BY-NC 4.0 |
