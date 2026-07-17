@@ -44,7 +44,7 @@ CNN_Models_Comparison_Bird_Classification/
 ```
 
 ## Dataset
-###(Puede ser accedido y descargado a través de este link: [`dataset/`](https://github.com/MarioRojasV/CNN_Models_Comparison_Bird_Classification/releases/tag/v1.0-dataset)
+###(Puede ser accedido y descargado a través de este link: [`dataset`](https://github.com/MarioRojasV/CNN_Models_Comparison_Bird_Classification/releases/tag/v1.0-dataset)
 - 250 imágenes de *Turdus grayi* + 250 imágenes de hembras de *Quiscalus mexicanus* (fotos "regulares", ave posada).
 - 10 imágenes adicionales por especie de aves **en vuelo**, usadas como conjunto de prueba adicional para medir la robustez de cada modelo ante poses no convencionales.
 - Todas las imágenes fueron seleccionadas bajo licencias **Creative Commons**, con su respectiva atribución documentada en [`data/`](data/attribution_records.md).
